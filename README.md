@@ -1,2 +1,2 @@
 # List-remainder-squares-programs
-Programs written in Python to begin making software
+Programs written in Python for the Intro to Software development assignment.
